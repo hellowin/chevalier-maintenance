@@ -157,15 +157,7 @@ $(window).load(function() {
 		width: screenWidth,
 		height: screenHeight
 		}); 
-		
-		 $.firefly({
-		 	color: '#F1E7C0',
-		 	minPixel: 1,
-		 	maxPixel: 2,
-		 	total : 1,
-		 	on: '#wrapper-firefly'
-		 });
-		
+				
 		});
 	
 	}
